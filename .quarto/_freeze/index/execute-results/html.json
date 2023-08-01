@@ -1,7 +1,7 @@
 {
-  "hash": "feb48cc2bb442ed7770ffecfbbb78c7d",
+  "hash": "0ce4e89a82e080ec004b85c3cca9ccaf",
   "result": {
-    "markdown": "---\ntitle: \"web-r-python\"\nformat: html\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"web-r-python\"\nformat: html\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n::: {.cell}\n\n```{.python .cell-code}\n\nx =25\ny = 26\n\nprint(x+y)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n51\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

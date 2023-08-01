@@ -10,3 +10,12 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+```{python}
+
+x =25
+y = 26
+
+print(x+y)
+
+```
